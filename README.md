@@ -1,2 +1,3 @@
 # language_Cpp
-some C++11 feature
+## About this project
+This project include some c++11 new feature. 
