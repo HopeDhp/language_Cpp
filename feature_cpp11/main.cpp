@@ -14,7 +14,10 @@
 #include <cstdlib>
 #include <iostream>
 
+#include "feature_cpp11.h"
+
 using namespace std;
+
 
 /*
  * 
@@ -22,6 +25,7 @@ using namespace std;
 int main(int argc, char** argv) 
 {
     std::cout << "hello world" << std::endl;
+    List_Init();
     return 0;
 }
 
